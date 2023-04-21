@@ -1,4 +1,4 @@
-# Project Title
+# Solidity Program - TOKEN.SOL
 
 Simple overview of use/purpose.
 
